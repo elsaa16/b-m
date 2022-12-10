@@ -1,3 +1,5 @@
 mengerjakan tugas github
-membut branch dan merge
+-membuat branch dan merge
+-melakukan fork
 lalu dikumpulkan
+belajar git pada git bash
